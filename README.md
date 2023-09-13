@@ -4,7 +4,7 @@
 * [fontes utilizadas](#fontes-utilizadas)
 * [autores ](#autores)
 
-![capa do projeto ](img/gif.produto)
+![capa do projeto ](gif.produto/grava%C3%A7ao-do-projeto-de-produtos.gif)
 
 ## Descrição
 projeto feito para vendas de produtos online 
